@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
   Not sure, I'll figure it out eventually.
 - 📫 How to reach me ...
-  Message me here or discord, Nan#1894
+  Message me here or discord, Marenzers#1894
 
 <!---
 CinnamonSwirly/CinnamonSwirly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
